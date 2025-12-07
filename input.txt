@@ -1,0 +1,10 @@
+
+put Tank 2
+end layout stage
+put Priest 2
+end layout stage
+N
+put Assassin 1
+end layout stage
+end layout stage
+Y

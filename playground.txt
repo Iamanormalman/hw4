@@ -1,0 +1,8 @@
+Jacky
+1,Assassin,150,70
+2,Tank,220,60
+3,none
+Emily
+1,none
+2,Priest,90,50
+3,none
